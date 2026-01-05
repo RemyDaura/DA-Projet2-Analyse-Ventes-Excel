@@ -11,3 +11,5 @@ Calcul d'indicateurs clés de performance (Chiffre d'affaires, Panier moyen).
 Analyse de Pareto (loi des 20/80) et courbe de Lorenz pour étudier la répartition des ventes.
 
 🛠 Stack : Excel (Tableaux Croisés Dynamiques), Analyse statistique descriptive.
+
+<img src="images/Capture d'écran 2025-07-28 140939.png" width="100px" align="left">
