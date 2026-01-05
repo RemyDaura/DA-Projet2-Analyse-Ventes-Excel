@@ -12,4 +12,4 @@ Analyse de Pareto (loi des 20/80) et courbe de Lorenz pour étudier la répartit
 
 🛠 Stack : Excel (Tableaux Croisés Dynamiques), Analyse statistique descriptive.
 
-<img src="images/Capture d'écran 2025-07-28 140939.png" width="1000px" align="left">
+<img src="images/Capture d'écran 2025-07-28 140939.png" width="500" align="left"> <img src="images/Capture d'écran 2025-08-04 111917.png" width="500px" align="left">
